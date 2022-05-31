@@ -5,7 +5,7 @@ This project will help in to reduce road accidents.</br>
 Subject---> JOE(Joy Of Engineering)</br>
 Group 4:</br>
 Team Members: (Contribution in Project)</br>
-NIPUN RAJPUT(Presentation Work)</br>
 KETAN THAKUR(Coding)</br>
+NIPUN RAJPUT(Presentation Work)</br>
 G SAI NIKHIL(Simulation and Circuit)</br>
 UTKARSH SINGH(Research Work)</br>
